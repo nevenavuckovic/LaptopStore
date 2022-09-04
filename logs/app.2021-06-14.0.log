@@ -1,0 +1,114 @@
+2021-06-14 12:12:23,961 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Starting LaptopStoreApplication using Java 1.8.0-272 on DESKTOP-MQDLS50 with PID 14084 (E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore\target\classes started by nemch in E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore)
+2021-06-14 12:12:24,596 DEBUG rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-14 12:12:24,597 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] The following profiles are active: prod
+2021-06-14 12:12:40,721 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-14 12:12:40,721 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-14 12:12:41,631 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-14 12:12:43,009 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-14 12:12:43,372 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-14 12:12:44,051 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-14 12:12:44,609 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-14 12:12:46,994 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-14 12:12:47,099 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-06-14 12:13:01,672 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-14 12:13:13,275 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Started LaptopStoreApplication in 53.392 seconds (JVM running for 59.89)
+2021-06-14 12:15:11,354 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8084-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-14 12:15:12,419 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-2] URL: ../user/register
+2021-06-14 12:15:12,420 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-2] Adding new user...
+2021-06-14 12:15:41,512 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-3] URL: ../user/register
+2021-06-14 12:15:41,512 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-3] Adding new user...
+2021-06-14 12:16:13,341 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] URL: ../user/register
+2021-06-14 12:16:13,342 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] Adding new user...
+2021-06-14 12:16:52,188 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] URL: ../user/register
+2021-06-14 12:16:52,188 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] Adding new user...
+2021-06-14 12:18:50,620 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m1s938ms674µs600ns).
+2021-06-14 17:04:35,415 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Starting LaptopStoreApplication using Java 1.8.0-272 on DESKTOP-MQDLS50 with PID 15256 (E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore\target\classes started by nemch in E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore)
+2021-06-14 17:04:35,652 DEBUG rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-14 17:04:35,653 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] The following profiles are active: prod
+2021-06-14 17:04:51,194 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-14 17:04:51,195 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-14 17:04:52,471 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-14 17:04:55,805 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-14 17:04:56,405 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-14 17:04:57,461 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-14 17:04:58,284 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-14 17:05:00,549 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-14 17:05:01,433 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-06-14 17:05:01,755 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Starting LaptopStoreApplication using Java 1.8.0-272 on DESKTOP-MQDLS50 with PID 4588 (E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore\target\classes started by nemch in E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore)
+2021-06-14 17:05:01,764 DEBUG rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-14 17:05:01,764 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] The following profiles are active: prod
+2021-06-14 17:05:08,523 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-14 17:05:25,061 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-14 17:05:25,062 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-14 17:05:27,526 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-14 17:05:30,007 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Started LaptopStoreApplication in 60.5 seconds (JVM running for 64.749)
+2021-06-14 17:05:31,446 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-14 17:05:33,059 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-14 17:05:33,790 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-14 17:05:34,578 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-14 17:05:35,773 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-14 17:05:35,906 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-06-14 17:05:42,835 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-14 17:05:58,695 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Shutdown initiated...
+2021-06-14 17:05:58,961 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Shutdown completed.
+2021-06-14 17:05:58,967 INFO org.apache.catalina.core.StandardService [main] Stopping service [Tomcat]
+2021-06-14 17:05:59,414 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8084 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8084 or configure this application to listen on another port.
+
+2021-06-14 17:06:33,028 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8084-exec-9] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-14 17:06:33,696 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-9] URL: ../user/register
+2021-06-14 17:06:33,697 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-9] Adding new user...
+2021-06-14 17:07:20,036 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-8] URL: ../user/search
+2021-06-14 17:07:20,036 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-8] Searching users...
+2021-06-14 17:07:37,932 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-7] URL: ../user/search
+2021-06-14 17:07:37,933 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-7] Searching users...
+2021-06-14 17:09:06,023 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] URL: ../user/10
+2021-06-14 17:09:06,024 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] Deleting user with id = 10...
+2021-06-14 17:09:06,111 ERROR rs.ac.ni.pmf.webproject.laptopstore.controllers.ErrorController [http-nio-8084-exec-5] Failed. Exception is: User with id = 10 not found.
+2021-06-14 17:09:14,328 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] URL: ../user/5
+2021-06-14 17:09:14,329 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] Deleting user with id = 5...
+2021-06-14 17:09:58,028 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-3] URL: ../user
+2021-06-14 17:09:58,028 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-3] Adding new user...
+2021-06-14 17:11:13,780 INFO org.springdoc.api.AbstractOpenApiResource [http-nio-8084-exec-1] Init duration for springdoc-openapi is: 4954 ms
+2021-06-14 17:12:14,529 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] URL: ../user
+2021-06-14 17:12:14,529 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] Getting all users...
+2021-06-14 17:12:14,530 DEBUG rs.ac.ni.pmf.webproject.laptopstore.services.impl.UserServiceImpl [http-nio-8084-exec-4] Listing all users...
+2021-06-14 17:12:39,309 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-10] URL: ../laptop
+2021-06-14 17:12:39,317 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-10] Getting all laptops...
+2021-06-14 17:12:40,424 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-9] URL: ../laptop
+2021-06-14 17:12:40,426 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-9] Getting all laptops...
+2021-06-14 17:12:55,137 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] URL: ../laptop
+2021-06-14 17:12:55,138 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] Getting all laptops...
+2021-06-14 17:43:22,335 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Starting LaptopStoreApplication using Java 1.8.0-272 on DESKTOP-MQDLS50 with PID 16160 (E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore\target\classes started by nemch in E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore)
+2021-06-14 17:43:22,342 DEBUG rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-14 17:43:22,343 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] The following profiles are active: prod
+2021-06-14 17:43:30,224 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-14 17:43:30,225 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-14 17:43:30,842 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-14 17:43:31,792 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-14 17:43:31,994 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-14 17:43:32,582 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-14 17:43:32,990 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-14 17:43:33,518 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-14 17:43:33,617 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-06-14 17:43:38,096 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-14 17:43:48,662 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Started LaptopStoreApplication in 30.403 seconds (JVM running for 34.881)
+2021-06-14 17:43:57,029 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8084-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-14 17:44:04,369 INFO org.springdoc.api.AbstractOpenApiResource [http-nio-8084-exec-4] Init duration for springdoc-openapi is: 4356 ms
+2021-06-14 17:45:36,063 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] URL: ../laptop
+2021-06-14 17:45:36,063 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] Getting all laptops...
+2021-06-14 17:45:49,541 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] URL: ../report/laptop
+2021-06-14 17:45:49,541 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] Getting laptop report...
+2021-06-14 17:45:54,557 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-6] URL: ../report/laptop/pdf
+2021-06-14 17:45:54,558 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-6] Exporting laptop report to PDF...

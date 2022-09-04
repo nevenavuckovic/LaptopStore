@@ -1,0 +1,50 @@
+2021-06-29 16:41:12,444 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Starting LaptopStoreApplication using Java 1.8.0-272 on DESKTOP-MQDLS50 with PID 3312 (E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore\target\classes started by nemch in E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore)
+2021-06-29 16:41:12,484 DEBUG rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-29 16:41:12,484 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] The following profiles are active: prod
+2021-06-29 16:41:23,692 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-29 16:41:23,694 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-29 16:41:24,219 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-29 16:41:25,235 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-29 16:41:25,480 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-29 16:41:26,115 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-29 16:41:26,569 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-29 16:41:27,845 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-29 16:41:27,945 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-06-29 16:41:31,542 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-29 16:41:40,151 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Started LaptopStoreApplication in 30.733 seconds (JVM running for 35.548)
+2021-06-29 16:42:18,256 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8084-exec-10] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-29 16:43:29,738 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-9] URL: ../laptop
+2021-06-29 16:43:29,739 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-9] Getting all laptops...
+2021-06-29 16:44:10,119 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Starting LaptopStoreApplication using Java 1.8.0-272 on DESKTOP-MQDLS50 with PID 4656 (E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore\target\classes started by nemch in E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore)
+2021-06-29 16:44:10,126 DEBUG rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-29 16:44:10,127 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] The following profiles are active: prod
+2021-06-29 16:44:18,963 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-29 16:44:18,963 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-29 16:44:19,522 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-29 16:44:20,730 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-29 16:44:21,051 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-29 16:44:21,661 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-29 16:44:22,277 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-29 16:44:23,090 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-29 16:44:23,279 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-06-29 16:44:29,043 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-29 18:38:27,562 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Starting LaptopStoreApplication using Java 1.8.0-272 on DESKTOP-MQDLS50 with PID 3136 (E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore\target\classes started by nemch in E:\Nevena\1. god MAS\2.sem\WebProject\LaptopStore)
+2021-06-29 18:38:27,607 DEBUG rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-29 18:38:27,607 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] The following profiles are active: prod
+2021-06-29 18:38:41,361 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-29 18:38:41,361 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-29 18:38:42,487 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-29 18:38:45,484 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-29 18:38:45,734 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-29 18:38:46,107 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-29 18:38:46,392 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-29 18:38:47,147 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-29 18:38:47,247 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-06-29 18:38:50,689 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-29 18:39:02,232 INFO rs.ac.ni.pmf.webproject.laptopstore.LaptopStoreApplication [main] Started LaptopStoreApplication in 38.197 seconds (JVM running for 42.796)
+2021-06-29 18:41:03,261 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8084-exec-10] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-29 18:41:12,351 INFO org.springdoc.api.AbstractOpenApiResource [http-nio-8084-exec-3] Init duration for springdoc-openapi is: 7285 ms
+2021-06-29 18:43:30,163 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] URL: ../laptop
+2021-06-29 18:43:30,164 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-4] Getting all laptops...
+2021-06-29 18:43:34,136 INFO rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] URL: ../report/laptop
+2021-06-29 18:43:34,136 DEBUG rs.ac.ni.pmf.webproject.laptopstore.controllers.impl.ColorControllerImpl [http-nio-8084-exec-5] Getting laptop report...
